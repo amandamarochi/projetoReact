@@ -1,7 +1,5 @@
 
 
-<h1 align="center">Move.it</h1>
-
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
