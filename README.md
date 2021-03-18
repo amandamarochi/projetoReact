@@ -3,7 +3,7 @@
 <h1 align="center">Moveit</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{amandamarochi}}/moveit-next?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{amandamarochi}}/projetoReact?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{amandamarochi}}/moveit-next?color=56BEB8">
 
