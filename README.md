@@ -5,11 +5,11 @@
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{amandamarochi}}/projetoReact?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{amandamarochi}}/moveit-next?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{amandamarochi}}/projetoReact?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{amandamarochi}}/moveit-next?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{amandamarochi}}/projetoReact?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{amandamarochi}}/moveit-next?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/{{amandamarochi}}/projetoReact?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/moveit-next?color=56BEB8" /> -->
 
