@@ -3,8 +3,6 @@
 <h1 align="center">Moveit</h1>
 
 
-	🚧  Moveit Next 🚀 Under construction...  🚧
-</h4> 
 
 <hr> -->
 
