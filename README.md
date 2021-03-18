@@ -1,10 +1,4 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Moveit Next" />
 
-  &#xa0;
-
-  <!-- <a href="https://moveitnext.netlify.app">Demo</a> -->
-</div>
 
 <h1 align="center">Moveit</h1>
 
