@@ -42,7 +42,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{amandamarochi}}/moveit-next
+$ git clone https://github.com/amandamarochi/ProjetoReact
 
 # Access
 $ cd moveit-next
@@ -61,7 +61,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{amandamarochi}}" target="_blank">Amanda</a>
+Made with :heart: by <a href="https://github.com/amandamarochi" target="_blank">Amanda</a>
 
 &#xa0;
 
