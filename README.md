@@ -18,6 +18,11 @@
 
 Pomodoro timer realizado durante a edição 4 do curso Next Level Week
 
+## 🎨: Layout ##
+
+https://moveit-xi-two.vercel.app/
+
+
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
@@ -25,6 +30,8 @@ The following tools were used in this project:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
+- [StyledComponents](https://styled-components.com/)
 
 ## :white_check_mark: Requirements ##
 
@@ -34,10 +41,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/amandamarochi/ProjetoReact
+$ git clone https://github.com/amandamarochi/ProjetoReact.git
 
 # Access
-$ cd moveit-next
+$ cd ProjetoReact
 
 # Install dependencies
 $ yarn
