@@ -14,7 +14,7 @@
 
 ## :dart: About ##
 
-Pomodoro timer realizado durante a edição 4 do curso Next Level Week
+Pomodoro timer que auxilia na prática de exercícios. Projeto realizado durante a edição 4 do curso Next Level Week
 
 ## 🎨: Layout ##
 
@@ -48,7 +48,7 @@ $ cd ProjetoReact
 $ yarn
 
 # Run the project
-$ yarn start
+$ yarn dev
 
 # The server will initialize in the <http://localhost:3000>
 ```
